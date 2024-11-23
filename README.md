@@ -1,0 +1,1 @@
+EL programa se ejecuta mostrando un tablero de ajedrez, el archivo PGN se debe seleccionar desde el menu que se encuentra en la parte superior izquierda de la ventana y en la parte superior se ejecutaran los pasos de la partida de ajedrez uno a un 
